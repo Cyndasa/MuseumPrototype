@@ -1,2 +1,2 @@
-# MuseumPrototype
-This project is for the prototyping of Group 15's Immersive Technology Prototype
+# MuseumWireframe
+This project is to showcase the low-profile wireframes for Group 15's VR project "Erudition"
